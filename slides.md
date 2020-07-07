@@ -350,7 +350,7 @@ class: middle
 
 class: chapter-slide
 
-# fin.
+# Thank you for listening!
 
 .larger[Thomas J. Fan]<br>
 @thomasjpfan<br>
