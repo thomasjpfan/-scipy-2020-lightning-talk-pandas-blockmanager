@@ -344,7 +344,7 @@ class: middle
 
 - Performance of DataFrame operations depends on context
 - [Block Manager Rewrite](https://pandas.pydata.org/docs/development/roadmap.html#block-manager-rewrite)
-- Implications for scikit-learn - [pandas in pandas out prototype](https://github.com/scikit-learn/scikit-learn/pull/16772)
+- Implications for scikit-learn - [array out prototype](https://github.com/scikit-learn/scikit-learn/pull/16772)
 
 
 ---
