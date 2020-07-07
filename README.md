@@ -1,6 +1,6 @@
-# Template for Slides
+# A Shallow Dive into Pandas' BlockManager - Scipy 2020
 
-[Here is a sample](https://thomasjpfan.github.io/slides-template/)
+[Link to slides](https://thomasjpfan-talks.github.io/scipy-2020-lightning-talk-pandas-blockmanager)
 
 # License
 
