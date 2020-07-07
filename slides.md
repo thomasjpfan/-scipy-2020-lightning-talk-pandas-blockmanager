@@ -5,6 +5,7 @@ class: title-slide
 # A Shallow Dive into Pandas' BlockManager
 
 .larger[Thomas J. Fan]<br>
+*scikit-learn core developer*<br>
 @thomasjpfan<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
@@ -146,15 +147,15 @@ How many blocks now?
 
 How long does it take?
 
-1. 1.3 seconds<br>
+1. 1.3 seconds
 2. 6.1 milliseconds
 
 .grid[
 .grid-6[.success.bold.center[
-    Press 1
+    Press 1 for 1.3 seconds
 ]]
 .grid-6[.alert.bold.center[
-    Press 2
+    Press 2 for 6.1 milliseconds
 ]]
 ]
 
@@ -173,7 +174,7 @@ How long does it take?
 
 .grid[
 .grid-12[.alert.bold.center[
-    Press 2
+    Press 2 for 6.1 milliseconds
 ]]
 ]
 
@@ -222,10 +223,10 @@ B. 6.1 milliseconds
 
 .grid[
 .grid-6[.success.bold.center[
-    Press A
+    Press A for 1.3 seconds
 ]]
 .grid-6[.alert.bold.center[
-    Press B
+    Press B for 6.1 milliseconds
 ]]
 ]
 
@@ -244,7 +245,7 @@ B. 6.1 milliseconds
 
 .grid[
 .grid-12[.success.bold.center[
-    Press A
+    Press A for 1.3 seconds
 ]]
 ]
 
@@ -298,10 +299,10 @@ How long does it take?
 
 .grid[
 .grid-6[.success.bold.center[
-    Press 1
+    Press 1 for 1.3 seconds
 ]]
 .grid-6[.alert.bold.center[
-    Press 2
+    Press 2 for 2 milliseconds
 ]]
 ]
 
@@ -322,7 +323,7 @@ How long does it take?
 
 .grid[
 .grid-12[.success.bold.center[
-    Press 1
+    Press 1 for 1.3 seconds
 ]]
 ]
 
